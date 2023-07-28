@@ -10,7 +10,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于ssm的智能停车场管理系统(源代码+数据库+11000字文档+ppt)
+## 基于Springboot/ssm的智能停车场管理系统(源代码+数据库+11000字文档+ppt)
 
 ## 一、系统介绍
 
@@ -26,7 +26,7 @@
 ## 二、所用技术
 
 后端技术栈：
-
+- Springboot
 - ssm
 - mybatisPlus
 - mysql
